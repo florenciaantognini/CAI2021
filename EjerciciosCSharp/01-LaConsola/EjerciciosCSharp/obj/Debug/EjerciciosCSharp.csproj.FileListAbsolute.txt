@@ -1,0 +1,7 @@
+Z:\CAI2021\EjerciciosCSharp\01-LaConsola\EjerciciosCSharp\bin\Debug\EjerciciosCSharp.exe.config
+Z:\CAI2021\EjerciciosCSharp\01-LaConsola\EjerciciosCSharp\bin\Debug\EjerciciosCSharp.exe
+Z:\CAI2021\EjerciciosCSharp\01-LaConsola\EjerciciosCSharp\bin\Debug\EjerciciosCSharp.pdb
+Z:\CAI2021\EjerciciosCSharp\01-LaConsola\EjerciciosCSharp\obj\Debug\EjerciciosCSharp.csprojAssemblyReference.cache
+Z:\CAI2021\EjerciciosCSharp\01-LaConsola\EjerciciosCSharp\obj\Debug\EjerciciosCSharp.csproj.CoreCompileInputs.cache
+Z:\CAI2021\EjerciciosCSharp\01-LaConsola\EjerciciosCSharp\obj\Debug\EjerciciosCSharp.exe
+Z:\CAI2021\EjerciciosCSharp\01-LaConsola\EjerciciosCSharp\obj\Debug\EjerciciosCSharp.pdb
